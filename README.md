@@ -21,8 +21,17 @@ Nota: Yo usé Visual Studio Code como mi editor de código porque tiene una exte
 <details>
 <summary><bold>Zona para desconfiad@s</bold></summary>
 
-### En caso de que no confíes en el repo:
+   ### En caso de que no confíes en el repo:
 
-Por qué no confias? soy buena gente 😠. Soy tan buena gente que te puedo decir que si no quieres descargar el código de aquí, puedes ir al link https://github.com/mrdoob/three.js/ y descargar el código directamente de ahí y simplemente copiar lo mismo que hay aquí, este repositorio simplemente está hecho para ahorrarte la búsqueda de archivos y la selección de lo necesario.
+   Por qué no confias? soy buena gente 😠. Soy tan buena gente que te puedo decir que si no quieres descargar el código de aquí, puedes ir al link https://github.com/mrdoob/three.js/ y descargar el código directamente de ahí y simplemente copiar lo mismo que hay aquí, este repositorio simplemente está hecho para ahorrarte la búsqueda de archivos y la selección de lo necesario.
 
+   Lista de lo que debes descargar del repositorio de [three.js](https://github.com/mrdoob/three.js/):
+   
+   1. [three.js/examples/webgl_geometry_text.html](https://github.com/mrdoob/three.js/blob/dev/examples/webgl_geometry_text.html)
+   2. [three.js/examples/jsm/](https://github.com/mrdoob/three.js/tree/dev/examples/jsm)
+   3. [three.js/examples/fonts/](https://github.com/mrdoob/three.js/tree/dev/examples/fonts)
+   4. [three.js/examples/main.css](https://github.com/mrdoob/three.js/blob/dev/examples/main.css)
+   5. [three.js/build/](https://github.com/mrdoob/three.js/tree/dev/build)
+   
+   Eso es básicamente todo lo necesario para correr la página, es literalmente el mismo código que el de este repositorio (creo que es exactamente igual, no recuerdo si cambié alguna cosa antes de subirlo aquí), así que se comportará igual que si clonaras/descargaras este repositorio, si decides descargar los archivos desde el repositorio de three.js tendrás que asegurarte de acomodarlos en sus ubicaciones correctas, puedes simplemente basarte en las direcciones de archivos que están en la lista (por ejemplo `three.js/examples/jsm`) y acomodarlos en tu computadora de la misma forma.
 </details>
